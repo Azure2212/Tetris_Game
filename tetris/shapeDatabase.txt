@@ -1,0 +1,4 @@
+S T S 
+9,6,8,pray 9,7,1,blue 9,8,8,pray 
+10,6,1,blue 10,7,1,blue 10,8,8,pray 
+11,6,1,blue 11,7,8,pray 11,8,8,pray 
